@@ -9,7 +9,7 @@ let track_list=[
         img:"person/1.jpg",
         name:"Ratan tata",
         occ:"Ceo of tata grp",
-        quote:"Change starts with yo,be the change you  want too see in the world"
+        quote:"Change starts with you,be the change you  want too see in the world"
     },
     {
         img:"person/2.jpg",
@@ -22,6 +22,12 @@ let track_list=[
         name:"Murthy",
         occ:"Ceo of infosys",
         quote:"a journey always began with small step"
+    },
+    {
+        img:"person/11.jpg",
+        name:"Kumar manglam Birla",
+        occ:"Md of birla Group",
+        quote:"Future is not built by politician but by true leader",
     },
 ];
 
