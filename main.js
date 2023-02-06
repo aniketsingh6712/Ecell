@@ -23,12 +23,7 @@ let track_list=[
         occ:"Ceo of infosys",
         quote:"a journey always began with small step"
     },
-    {
-        img:"person/11.jpg",
-        name:"Kumar manglam Birla",
-        occ:"Md of birla Group",
-        quote:"Future is not built by politician but by true leader",
-    },
+    
 ];
 
 function looptr(track_index){
