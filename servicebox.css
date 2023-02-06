@@ -1,0 +1,60 @@
+.service-box .service-icon i {
+    font-size: 64px;
+    line-height: 140px;
+}
+.service-box .service-icon i {
+    font-size: 26px;
+    color: white;
+    z-index: 4;
+    position: relative;
+    line-height: 70px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.service-box{
+    text-align: center;
+    display:inline-block;
+}
+.iconi{
+    height: 140px;
+    width: 140px;
+    color:white;
+    transition: 0.3s;
+    background-color: white;
+    border-radius: 15px;
+}
+.iconi:hover{
+    background-color: black;
+    opacity:0.8;
+
+}
+.visible{
+    width:30%;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+.fa-sharp{
+    color:white;
+    font-size: 30px;
+    margin-right:300px;
+    margin-left: 300px;
+    cursor: pointer;
+}
+#almbtn{
+	margin-top:50px;
+	display:flex;
+	justify-content:center;
+	align-content:center;
+	margin-bottom:50px;
+}
+.img{
+	background-image:url("person/5.jpg");
+	background-size:cover;
+}
+.container{
+    margin-top: 40px;
+    height: 150px;
+}
+
